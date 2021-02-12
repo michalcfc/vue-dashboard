@@ -1,6 +1,6 @@
 # vue-dashboard
 
-SEE LIVE DEMO (https://gracious-shaw-b156b3.netlify.app/).
+[SEE LIVE DEMO](https://gracious-shaw-b156b3.netlify.app/).
 
 ## Project setup
 ```
