@@ -1,11 +1,10 @@
 <template lang="pug">
-#app
-component(:is="this.$route.meta.layout || 'div'")
+.h-full.px-6.py-8
   router-view
 </template>
 
 <script>
 export default {
-  name: 'App',
+  name: 'Main',
 };
 </script>
